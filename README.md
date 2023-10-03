@@ -6,9 +6,9 @@ just requied to install one python 3.+ version and as well need to install few l
 Fork it of git clone this repo 
 open your nice CMD
 
-               $git clone https://github.com/RuturajS/EdgeAutoRewa.git
-               $cd EdgeAutoRewa
-               $pip install -r requirement.txt
-               $chmod +7 RewaEdge.py
-Run this       $python3 RewaEdge.py 
+                   $git clone https://github.com/RuturajS/EdgeAutoRewa.git
+                   $cd EdgeAutoRewa
+                   $pip install -r requirement.txt
+                   $chmod +7 rewaedge.py 
+    Run this       $python3 rewaedge.py 
             
